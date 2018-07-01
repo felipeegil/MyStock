@@ -1,2 +1,2 @@
 # MyStock
-Final Project from a Mobile Development Class at UFRN
+Final Project from a Mobile Development Class, with Android Studio, at UFRN
